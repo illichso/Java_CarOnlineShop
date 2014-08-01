@@ -1,6 +1,6 @@
 package com.sergii.caronlineshop;
 
-import org.powermock.core.classloader.annotations.PrepareForTest;
+//import org.powermock.core.classloader.annotations.PrepareForTest;
 
 import javax.servlet.http.HttpSession;
 import java.util.Enumeration;
